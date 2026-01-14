@@ -5,13 +5,8 @@ Experiencia desarrollando en:<br>
 -Java<br>
 -Kotlin<br>
 -Python<br>
--HTML, CSS y Javascript<br>
+-HTML, CSS, Javascript y Typescript<br>
 
-Cuento con conocimientos de software de diseño como:<br>
--Blender<br>
--Krita<br>
--Inkscape<br>
--Pixelorama<br>
 
 <!--
 **Alejb2001/Alejb2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
