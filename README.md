@@ -10,6 +10,7 @@ Experiencia desarrollando con los lenguajes:<br>
 -Javascript<br>
 -Typescript<br>
 -C#<br>
+-Ruby<br>
 
 Experiencia desarrollando con los frameworks:<br>
 -Angular<br>
